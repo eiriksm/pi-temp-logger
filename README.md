@@ -1,6 +1,6 @@
 pi-temp-logger
 ===
-A node js temp logger. 
+A node js temp logger for the raspberry pi.
 
 Extremely simple usage example:
 ```
