@@ -1,5 +1,6 @@
 pi-temp-logger
 ===
+[![Dependency Status](https://david-dm.org/eiriksm/pi-temp-logger.svg?theme=shields.io)](https://david-dm.org/eiriksm/pi-temp-logger)
 A node js temp logger for the raspberry pi.
 
 Extremely simple usage example:
